@@ -25,3 +25,4 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 3. Sum, product and average: ✘ not completed yet, 0/3 test points (`js-1-2/assignment-3/assignment-3.js`)
 
 <!-- metropolia:progress:end -->
+
